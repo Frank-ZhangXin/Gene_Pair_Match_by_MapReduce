@@ -74,7 +74,8 @@ The function of this tool is to map HiC interactions locations to genes and calc
 
 ----
 ## Thanks
-* Cameron Loader
+* [Cameron Loader](https://github.com/cloader89)
 * Lu Liu
 * Tzu-Sheng Hsu
+* [Dr. Lama](http://www.cs.utsa.edu/~plama/)
 
