@@ -61,7 +61,8 @@ The function of this tool is to map HiC interactions locations to genes and calc
 
 >cat test | python hadoop_mapper.py | sort -k1,1 | python hadoop_reducer.py > output.txt
 
-3. Execution result will be in output.txt
+
+**Execution result** will be in *output.txt*
 
 1st column is 1st chromosome fragment paired gene id
 
