@@ -31,9 +31,9 @@ The function of this tool is to map HiC interactions locations to genes and calc
 
 2nd column: **chromosome id**
 
-3rd column: **strand***
+3rd column: **strand**
 
-4th column: **start***
+4th column: **start**
 
 5th column: **end**
 
@@ -43,9 +43,9 @@ The function of this tool is to map HiC interactions locations to genes and calc
 
 2nd column: **start1**
 
-3rd column: **end1***
+3rd column: **end1**
 
-4th column: **chromosome2 id***
+4th column: **chromosome2 id**
 
 5th column: **start2**
 
